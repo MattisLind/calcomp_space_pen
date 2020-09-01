@@ -18,3 +18,7 @@ Tomislav Mikulic has a [good page on Calcomp 565 plotters](http://tomislavmikuli
 
 Herb Johnsons [pages on the Calcomp 565](http://www.retrotechnology.com/restore/calcomp565.html)
 
+Jefferey Jonas [pages on the Calcomp 565](http://ferretronix.com/1627/) including a lot of good pictures of the pen assembly.
+
+David Gessweins [pages on the Calcomp 563 and 565](http://www.pdp8online.com/563/563.shtml). He has med replacement parts using his lathe.
+
